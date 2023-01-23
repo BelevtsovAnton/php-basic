@@ -1,0 +1,4 @@
+.content-wrapper.kanban .content-header + .content {
+  height: calc(100% - ((2 * 47px) + (1.8rem * 1.2)));
+}
+
